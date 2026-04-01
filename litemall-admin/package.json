@@ -1,7 +1,7 @@
 {
-  "name": "litemall-admin",
+  "name": "adultmall-admin",
   "version": "1.0.0",
-  "description": "litemall-admin basing on vue-element-admin 4.3.0",
+  "description": "成人用品商城管理后台",
   "author": "linlinjava <linlinjava@163.com>",
   "license": "MIT",
   "scripts": {

@@ -1,8 +1,8 @@
 {
-  "name": "litemall-vue",
+  "name": "adultmall-vue",
   "version": "0.1.0",
-  "description": "litemall-vue basing on vant--mobile-mall 0.1.0",
-  "author": "litemall <linlinjava@163.com>",
+  "description": "成人用品商城移动端",
+  "author": "adultmall",
   "license": "MIT",
   "private": true,
   "scripts": {
