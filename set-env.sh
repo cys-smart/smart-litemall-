@@ -1,6 +1,0 @@
-export JAVA_HOME="D:/DevTools/jdk-11"
-export MAVEN_HOME="D:/DevTools/apache-maven-3.9.6"
-export PATH="$JAVA_HOME/bin:$MAVEN_HOME/bin:$PATH"
-echo "Java environment set for this session"
-echo "JAVA_HOME=$JAVA_HOME"
-echo "MAVEN_HOME=$MAVEN_HOME"
